@@ -114,15 +114,6 @@ with st.expander("💼 Vagas que posso buscar em Campinas"):
 
 # ========== RODAPÉ ==========
 st.divider()
-st.caption("Dashboard desenvolvido por [Seu Nome] | Campinas-SP | Último semestre ADS")
+st.caption("Dashboard desenvolvido por Filipe Miguel | Vinhedo-SP | Último semestre ADS")
 
-# ========== MENSAGEM FINAL ==========
-st.success("""
-🎉 **PARABÉNS!** Você já tem:
-1. ✅ Python instalado
-2. ✅ Streamlit funcionando  
-3. ✅ Primeiro dashboard criado
-4. ✅ Plano de ação definido
 
-**Próximo:** Compartilhar este progresso!
-""")
